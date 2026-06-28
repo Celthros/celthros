@@ -1,3 +1,8 @@
+<style>
+  :root{
+   --bgColor-muted: #ffffff;
+  }
+</style>
 <h3 align="center">A passionate frontend developer from Northern Michigan</h3>
 
 <p align="center">
